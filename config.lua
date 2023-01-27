@@ -72,19 +72,19 @@ Config.Locations = {
         }
     },
     ["freedom"] = {
-        coords = vector4(1740.88, 2476.57, 44.85, 299.49)
+        coords = vector4(1790.61, 2550.46, 44.67, 92.88)
     },
     ["outside"] = {
         coords = vector4(1848.13, 2586.05, 44.67, 269.5)
     },
     ["yard"] = {
-        coords = vector4(1765.67, 2565.91, 44.56, 1.5)
+        coords = vector4(1752.68, 2503.11, 44.57, 34.65)
     },
     ["middle"] = {
-        coords = vector4(1693.33, 2569.51, 44.55, 123.5)
+        coords = vector4(1744.7, 2520.82, 44.57, 26.76)
     },
     ["shop"] = {
-        coords = vector4(1777.59, 2560.52, 44.62, 187.83)
+        coords = vector4(1781.09, 2560.75, 44.67, 179.07)
     },
     spawns = {
         [1] = {
@@ -144,7 +144,7 @@ Config.CanteenItems = {
         slot = 1
     },
     [2] = {
-        name = "water_bottle",
+        name = "water",
         price = 4,
         amount = 50,
         info = {},

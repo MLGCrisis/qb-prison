@@ -132,7 +132,7 @@ RegisterNetEvent('QBCore:Client:OnPlayerLoaded', function()
 				end
 			}
 		},
-		distance = 2.5,
+		distance = 5,
 	})
 
 	exports['qb-target']:AddTargetEntity(canteen_ped, {
@@ -147,7 +147,7 @@ RegisterNetEvent('QBCore:Client:OnPlayerLoaded', function()
 				end
 			}
 		},
-		distance = 2.5,
+		distance = 10,
 	})
 end)
 
